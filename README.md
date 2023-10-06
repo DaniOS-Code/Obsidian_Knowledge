@@ -12,7 +12,7 @@
 - Then, you need to unzip the _`.zip`_ file
 
 <div align="center">
-<img src="./IMG/ObsidianFile.png" style="width: 80%">
+<img src="./IMG/ObsidianFile.png" width="80%">
 </div>
 
 - Now, you need to go to the [**Obsidian**](https://obsidian.md/download) application and download it
@@ -20,5 +20,5 @@
 - Then, you need to open the application and click on _`Open folder as vault`_
 
 <div align="center">
-<img src="./IMG/ObsidianVault.png" style="width: 80%">
+<img src="./IMG/ObsidianVault.png" width="80%">
 </div>
