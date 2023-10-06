@@ -23,4 +23,4 @@
 <img src="./IMG/ObsidianVault.png" width="80%">
 </div>
 
-- Finally, select the folder and open it.
+- Finally, select the folder and _`open`_ it.
