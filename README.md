@@ -7,7 +7,7 @@
 > Here are the steps to follow:
 
 [comment]: <> (Drive Obsidian File v1.0.0 [Oct/5/2023] )
-- First, you need to download the [**Drive File**](https://drive.google.com/file/d/1eyUpR-a4_vMgGidbfaZTTmw0i4RZGqv8/view?usp=drive_link)
+- First, you need to download the [**Drive File**](https://drive.google.com/file/d/1vFs6XgzCdMacNgFclkO_91VS1W46rr8K/view?usp=drive_link)
 
 - Then, you need to unzip the _`.zip`_ file
 
