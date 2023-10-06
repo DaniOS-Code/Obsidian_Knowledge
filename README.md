@@ -15,6 +15,8 @@
 <img src="./IMG/ObsidianFile.png" width="80%">
 </div>
 
+- Finally, select the folder and open it.
+
 - Now, you need to go to the [**Obsidian**](https://obsidian.md/download) application and download it
 
 - Then, you need to open the application and click on _`Open folder as vault`_
