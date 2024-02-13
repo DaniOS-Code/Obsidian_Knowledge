@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "acd576c541715243",
+    "type": "split",
+    "children": [
+      {
+        "id": "a908a84b8de51ff3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90dbccd1beed286b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7eecda5bf55c1dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c077157068223193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fdc68d4066413f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edc0ee174fd556d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8fbda91f10fc578",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "532f99f630b8de32",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa81b11246f25b29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd32dc07db8c610e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "382fc4e664d6a85d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06ccf5b3187ccb8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "596fa99437d01d7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "36a9a77dcb90311d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "90dbccd1beed286b",
+  "lastOpenFiles": [
+    "Obsidian-Knowledge",
+    "Desarrollo Web/Cosas Extras de Lenguajes.md",
+    "Windows/Powershell/Bucles en Powershell.md",
+    "Windows/Powershell/Entradas de Texto.md",
+    "Windows/Errores de Windows/Entrada de Idioma de Windows.md",
+    "YouTube/Canales de Programación.md",
+    "YouTube/Canales de Tecnología.md",
+    "Windows/Instalar Terminal/Personalizar (Oh My Posh).md",
+    "Windows/Instalar Terminal/Microsoft Store.md",
+    "Windows/Instalar Terminal/Más Comandos PATH.md",
+    "Windows/Instalar Terminal",
+    "Windows/Powershell/Modificar Archivos.md",
+    "Windows/Powershell/Tuberías.md",
+    "Windows/Powershell/Ver el Contenido de un Archivo.md",
+    "Windows/Powershell/Variables.md",
+    "Windows/Powershell/Select String (Parecido a grep).md",
+    "Windows/Powershell/Sentencias Condicionales.md",
+    "Windows/Powershell/Listas en Powershell.md",
+    "Windows/Powershell/Extraer Información del Sistema.md",
+    "Windows/Powershell/Imprimir Mensajes en Powershell.md",
+    "Windows/Powershell/Listas de Comandos Comunes.md",
+    "Windows/Powershell",
+    "Windows/Actualizar Apps Auto..md",
+    "Windows/Errores de Windows",
+    "Red/Mejorar la Conexión/Vaciar la Cache de la Red.md",
+    "Red/Mejorar la Conexión/Internet Óptimo.md",
+    "Red/Mejorar la Conexión/Cambiar DNS.md",
+    "Red/Mejorar la Conexión",
+    "Red/CURL/Subir Archivos con CURL.md",
+    "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
+    "Red/CURL",
+    "Linux/Bash",
+    "IMG/winget-list.png",
+    "IMG/Calculo-Diferencial.pdf",
+    "IMG/Direcciones-mac-explicacion.png",
+    "IMG/elegir-clean-disk.png",
+    "IMG/Menu-contextual-clean.png",
+    "IMG/Plan-de-energia-max-rend.png",
+    "IMG/Get-informacion-archivo.png",
+    "IMG/oraclecomoinstalarlinux.png",
+    "IMG/imprimir-en-powershell.png",
+    "IMG/nmap-mac.png",
+    "IMG/Christitustech-optimizer.png",
+    "IMG/Calculo-Integral.pdf",
+    "IMG/Visual_Studio_Code_Aprender_Programacion.rar",
+    "IMG/Frontend Roadmap.pdf"
+  ]
+}
