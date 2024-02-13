@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a908a84b8de51ff3",
+        "id": "bfab7b82a8ea6222",
         "type": "tabs",
         "children": [
           {
-            "id": "90dbccd1beed286b",
+            "id": "62828cded64154f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -142,9 +150,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,11 +161,20 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "90dbccd1beed286b",
+  "active": "62828cded64154f5",
   "lastOpenFiles": [
+    "Hacking/Instalar Kali Linux (Virtual Machine).md",
+    "Hacking/Contraseñas Guardadas.md",
+    "README.md",
+    "IMG/ObsidianVault.png",
+    "IMG/ObsidianLogo.png",
+    "IMG/ObsidianFile.png",
     "Obsidian-Knowledge",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
     "Windows/Powershell/Bucles en Powershell.md",
@@ -189,8 +203,6 @@
     "Red/Mejorar la Conexión/Internet Óptimo.md",
     "Red/Mejorar la Conexión/Cambiar DNS.md",
     "Red/Mejorar la Conexión",
-    "Red/CURL/Subir Archivos con CURL.md",
-    "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
     "Red/CURL",
     "Linux/Bash",
     "IMG/winget-list.png",
@@ -201,11 +213,7 @@
     "IMG/Plan-de-energia-max-rend.png",
     "IMG/Get-informacion-archivo.png",
     "IMG/oraclecomoinstalarlinux.png",
-    "IMG/imprimir-en-powershell.png",
-    "IMG/nmap-mac.png",
-    "IMG/Christitustech-optimizer.png",
     "IMG/Calculo-Integral.pdf",
-    "IMG/Visual_Studio_Code_Aprender_Programacion.rar",
-    "IMG/Frontend Roadmap.pdf"
+    "IMG/Visual_Studio_Code_Aprender_Programacion.rar"
   ]
 }
