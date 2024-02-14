@@ -7,9 +7,11 @@
 > Here are the steps to follow:
 
 [comment]: <> (Drive Obsidian File v1.0.0 [Oct/5/2023] )
-- First, you need to download the [**Drive File**](https://drive.google.com/file/d/1om1rugb6rpj7s_WBflqmK5zZegxYuQm7/view?usp=sharing)
+- First, you need to clone & download the **File** via _`git`_
 
-- Then, you need to unzip the _`.zip`_ file
+``` git
+git clone https://github.com/DaniOS-Code/Obsidian_Knowledge.git
+```
 
 <div align="center">
 <img src="./IMG/ObsidianFile.png" width="80%">
