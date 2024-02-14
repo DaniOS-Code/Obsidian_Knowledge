@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiFolderImageFill",
+      "SiAndroid",
+      "RiGamepadFill",
+      "SiInternetexplorer",
+      "SiHackaday"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,5 +26,18 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "YouTube": "SiYoutube",
+  "Windows": "SiWindows11",
+  "Red": "TiNetwork",
+  "Psicología": "RiBrainFill",
+  "Optimizaciones": "SiSpeedtest",
+  "Obsidian": "SiObsidian",
+  "MacOS": "IbMacintosh",
+  "Linux": "SiLinux",
+  "Hacking": "SiHackaday",
+  "Desarrollo Web": "SiInternetexplorer",
+  "Desarrollo de Juegos": "RiGamepadFill",
+  "Android": "SiAndroid",
+  "IMG": "RiFolderImageFill"
 }

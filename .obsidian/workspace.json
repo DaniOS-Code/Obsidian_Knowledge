@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "bfab7b82a8ea6222",
+        "id": "1c8c06685390c1b3",
         "type": "tabs",
         "children": [
           {
-            "id": "62828cded64154f5",
+            "id": "a9ef603d1dba0c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Desarrollo Web/Ruta Para Aprender.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "d5618712da69e63f"
+          }
+        ]
+      },
+      {
+        "id": "2aa27282a3662b54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f73fd31c06da5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo Web/Ruta Para Aprender.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "d5618712da69e63f"
           }
         ]
       }
@@ -64,6 +84,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "85862e1bed358244",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Desarrollo Web/Ruta Para Aprender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Desarrollo Web/Ruta Para Aprender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Desarrollo Web/Ruta Para Aprender.md"
               }
             }
           },
@@ -164,14 +192,21 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "62828cded64154f5",
+  "active": "f5f73fd31c06da5b",
   "lastOpenFiles": [
+    "Desarrollo Web/PDF's para Aprender.md",
+    "Desarrollo Web/Algunas Tecnologías Back-End.md",
+    "Android/Personalizar el Desarrollador.md",
+    "Android/Opciones de Desarrollador.md",
+    "Spaces/Home",
+    "Spaces",
+    "README.md",
     "Hacking/Instalar Kali Linux (Virtual Machine).md",
     "Hacking/Contraseñas Guardadas.md",
-    "README.md",
     "IMG/ObsidianVault.png",
     "IMG/ObsidianLogo.png",
     "IMG/ObsidianFile.png",
@@ -197,11 +232,7 @@
     "Windows/Powershell/Imprimir Mensajes en Powershell.md",
     "Windows/Powershell/Listas de Comandos Comunes.md",
     "Windows/Powershell",
-    "Windows/Actualizar Apps Auto..md",
     "Windows/Errores de Windows",
-    "Red/Mejorar la Conexión/Vaciar la Cache de la Red.md",
-    "Red/Mejorar la Conexión/Internet Óptimo.md",
-    "Red/Mejorar la Conexión/Cambiar DNS.md",
     "Red/Mejorar la Conexión",
     "Red/CURL",
     "Linux/Bash",
@@ -212,8 +243,6 @@
     "IMG/Menu-contextual-clean.png",
     "IMG/Plan-de-energia-max-rend.png",
     "IMG/Get-informacion-archivo.png",
-    "IMG/oraclecomoinstalarlinux.png",
-    "IMG/Calculo-Integral.pdf",
-    "IMG/Visual_Studio_Code_Aprender_Programacion.rar"
+    "IMG/oraclecomoinstalarlinux.png"
   ]
 }

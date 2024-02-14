@@ -6,5 +6,9 @@
   "obsidian-advanced-slides",
   "obsidian-icon-folder",
   "quick-latex",
-  "obsidian-git"
+  "obsidian-git",
+  "make-md",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "markdown-prettifier",
+  "obsidian-linter"
 ]
