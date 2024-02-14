@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,14 +197,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f5f73fd31c06da5b",
+  "active": "dd32dc07db8c610e",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Android/Personalizar el Desarrollador.md",
     "Android/Opciones de Desarrollador.md",
-    "Spaces/Home",
-    "Spaces",
     "README.md",
     "Hacking/Instalar Kali Linux (Virtual Machine).md",
     "Hacking/Contraseñas Guardadas.md",
@@ -230,7 +231,6 @@
     "Windows/Powershell/Listas en Powershell.md",
     "Windows/Powershell/Extraer Información del Sistema.md",
     "Windows/Powershell/Imprimir Mensajes en Powershell.md",
-    "Windows/Powershell/Listas de Comandos Comunes.md",
     "Windows/Powershell",
     "Windows/Errores de Windows",
     "Red/Mejorar la Conexión",

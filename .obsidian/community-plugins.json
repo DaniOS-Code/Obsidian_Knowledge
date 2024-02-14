@@ -4,11 +4,10 @@
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-advanced-slides",
-  "obsidian-icon-folder",
   "quick-latex",
-  "obsidian-git",
   "make-md",
   "obsidian-markdown-formatting-assistant-plugin",
   "markdown-prettifier",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-icon-folder"
 ]

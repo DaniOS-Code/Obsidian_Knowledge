@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiFolderImageFill",
-      "SiAndroid",
-      "RiGamepadFill",
-      "SiInternetexplorer",
-      "SiHackaday"
+      "SiWindows",
+      "LiNetwork",
+      "RiBrainFill",
+      "SiSpeedtest",
+      "SiObsidian"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,12 +28,12 @@
     "iconIdentifier": ":"
   },
   "YouTube": "SiYoutube",
-  "Windows": "SiWindows11",
-  "Red": "TiNetwork",
+  "Windows": "SiWindows",
+  "Red": "LiNetwork",
   "Psicología": "RiBrainFill",
   "Optimizaciones": "SiSpeedtest",
   "Obsidian": "SiObsidian",
-  "MacOS": "IbMacintosh",
+  "MacOS": "RiFinderFill",
   "Linux": "SiLinux",
   "Hacking": "SiHackaday",
   "Desarrollo Web": "SiInternetexplorer",
