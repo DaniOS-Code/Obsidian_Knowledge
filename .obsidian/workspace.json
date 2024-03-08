@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8c06685390c1b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a9ef603d1dba0c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "d5618712da69e63f"
-          }
-        ]
-      },
-      {
         "id": "2aa27282a3662b54",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Hacking/Hacking Generico/Ataque DoS.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "d5618712da69e63f"
+            }
           }
         ]
       }
@@ -113,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Hacking/Hacking Generico/Ataque DoS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Hacking/Hacking Generico/Ataque DoS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Hacking/Hacking Generico/Ataque DoS.md"
               }
             }
           },
@@ -196,8 +176,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a9ef603d1dba0c2a",
+  "active": "f5f73fd31c06da5b",
   "lastOpenFiles": [
+    "README.md",
     "Desarrollo Web/Ruta Para Aprender.md",
     "Spaces/Home",
     "Spaces",
@@ -205,7 +186,6 @@
     "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Android/Personalizar el Desarrollador.md",
     "Android/Opciones de Desarrollador.md",
-    "README.md",
     "Hacking/Instalar Kali Linux (Virtual Machine).md",
     "Hacking/Contraseñas Guardadas.md",
     "IMG/ObsidianVault.png",
