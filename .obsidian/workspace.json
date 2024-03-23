@@ -8,16 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5f73fd31c06da5b",
+            "id": "789342d8886d453c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Hacking Generico/Ataque DoS.md",
+                "file": "Obsidian/Guía de Markdown y HTML.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "3cd4df3b5c691640"
+          }
+        ]
+      },
+      {
+        "id": "7139b9eedfd1a1f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ecd6bdb0cf361ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Guía de Markdown y HTML.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "3cd4df3b5c691640"
           }
         ]
       }
@@ -77,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "532f99f630b8de32",
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Hacking Generico/Ataque DoS.md",
+                "file": "Obsidian/Guía de Markdown y HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Hacking Generico/Ataque DoS.md",
+                "file": "Obsidian/Guía de Markdown y HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/Hacking Generico/Ataque DoS.md"
+                "file": "Obsidian/Guía de Markdown y HTML.md"
               }
             }
           },
@@ -176,8 +197,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f5f73fd31c06da5b",
+  "active": "789342d8886d453c",
   "lastOpenFiles": [
+    "Hacking/Hacking Generico/Ataque DoS.md",
     "README.md",
     "Desarrollo Web/Ruta Para Aprender.md",
     "Spaces/Home",
@@ -210,7 +232,6 @@
     "Windows/Powershell/Sentencias Condicionales.md",
     "Windows/Powershell/Listas en Powershell.md",
     "Windows/Powershell/Extraer Información del Sistema.md",
-    "Windows/Powershell/Imprimir Mensajes en Powershell.md",
     "Windows/Powershell",
     "Windows/Errores de Windows",
     "Red/Mejorar la Conexión",

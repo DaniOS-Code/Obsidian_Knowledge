@@ -7,7 +7,7 @@ Los títulos en Obsidian se escriben con un # seguido de un espacio.
 ##### Título nivel 5
 ###### Título nivel 6
 
-# Ctrl + F para buscar 
+# Ctrl + F para buscar
 
 # Formateo del texto
 **negrita** y __negrita__
