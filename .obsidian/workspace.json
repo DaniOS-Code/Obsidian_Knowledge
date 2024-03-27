@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Opciones de Desarrollador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Opciones de Desarrollador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Android/Opciones de Desarrollador.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +176,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3fdc68d4066413f9",
+  "active": "ae19838c270e8a70",
   "lastOpenFiles": [
+    "Android/Opciones de Desarrollador.md",
     "Android/Personalizar el Desarrollador.md",
     "Optimizaciones/Optimización de Dispositivos.md",
     "Windows/Errores de Windows/Entrada de Idioma de Windows.md",
@@ -201,7 +198,6 @@
     "Desarrollo Web/Ruta Para Aprender.md",
     "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Algunas Tecnologías Back-End.md",
-    "Android/Opciones de Desarrollador.md",
     "Hacking/Instalar Kali Linux (Virtual Machine).md",
     "Hacking/Contraseñas Guardadas.md",
     "IMG/ObsidianVault.png",
