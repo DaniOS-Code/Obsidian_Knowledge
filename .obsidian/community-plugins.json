@@ -1,14 +1,11 @@
 [
-  "obsidian-excalidraw-plugin",
-  "dataview",
-  "table-editor-obsidian",
-  "obsidian-tasks-plugin",
-  "obsidian-advanced-slides",
   "quick-latex",
-  "make-md",
   "obsidian-markdown-formatting-assistant-plugin",
   "markdown-prettifier",
   "obsidian-linter",
-  "obsidian-icon-folder",
-  "obsidian-html-plugin"
+  "obsidian-html-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-advanced-slides",
+  "obsidian-tasks-plugin"
 ]

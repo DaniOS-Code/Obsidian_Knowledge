@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiWindows",
-      "LiNetwork",
-      "RiBrainFill",
-      "SiSpeedtest",
-      "SiObsidian"
+      "BoBxsGraduation",
+      "BoBxsLockOpenAlt",
+      "FabLinux",
+      "RiSpeedUpFill",
+      "BoBxlYoutube"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,19 +25,20 @@
     "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true
   },
-  "YouTube": "SiYoutube",
-  "Windows": "SiWindows",
+  "YouTube": "BoBxlYoutube",
   "Red": "LiNetwork",
   "Psicología": "RiBrainFill",
-  "Optimizaciones": "SiSpeedtest",
-  "Obsidian": "SiObsidian",
+  "Optimizaciones": "RiSpeedUpFill",
+  "Obsidian": "BoBxsGraduation",
   "MacOS": "RiFinderFill",
-  "Linux": "SiLinux",
-  "Hacking": "SiHackaday",
-  "Desarrollo Web": "SiInternetexplorer",
+  "Linux": "FabLinux",
+  "Hacking": "BoBxsLockOpenAlt",
+  "Desarrollo Web": "BoBxlInternetExplorer",
   "Desarrollo de Juegos": "RiGamepadFill",
-  "Android": "SiAndroid",
-  "IMG": "RiFolderImageFill"
+  "Android": "TiBrandAndroid",
+  "IMG": "RiFolderImageFill",
+  "Windows": "RiWindowsFill"
 }
