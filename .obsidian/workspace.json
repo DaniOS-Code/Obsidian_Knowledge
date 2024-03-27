@@ -92,6 +92,14 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "cb25047b771fa21c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -199,11 +207,11 @@
   },
   "active": "789342d8886d453c",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "Hacking/Hacking Generico/Ataque DoS.md",
     "README.md",
     "Desarrollo Web/Ruta Para Aprender.md",
-    "Spaces/Home",
-    "Spaces",
     "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Android/Personalizar el Desarrollador.md",
@@ -231,7 +239,6 @@
     "Windows/Powershell/Select String (Parecido a grep).md",
     "Windows/Powershell/Sentencias Condicionales.md",
     "Windows/Powershell/Listas en Powershell.md",
-    "Windows/Powershell/Extraer Información del Sistema.md",
     "Windows/Powershell",
     "Windows/Errores de Windows",
     "Red/Mejorar la Conexión",
