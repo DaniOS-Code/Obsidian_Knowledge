@@ -11,8 +11,12 @@
             "id": "ae19838c270e8a70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "YouTube/Canales de Tecnología.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YouTube/Canales de Tecnología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "YouTube/Canales de Tecnología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "YouTube/Canales de Tecnología.md"
+              }
             }
           },
           {
@@ -178,6 +186,7 @@
   },
   "active": "ae19838c270e8a70",
   "lastOpenFiles": [
+    "YouTube/Canales de Programación.md",
     "Android/Opciones de Desarrollador.md",
     "Android/Personalizar el Desarrollador.md",
     "Optimizaciones/Optimización de Dispositivos.md",
@@ -206,7 +215,6 @@
     "Obsidian-Knowledge",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
     "Windows/Powershell/Bucles en Powershell.md",
-    "YouTube/Canales de Programación.md",
     "YouTube/Canales de Tecnología.md",
     "Windows/Instalar Terminal/Personalizar (Oh My Posh).md",
     "Windows/Instalar Terminal/Microsoft Store.md",
