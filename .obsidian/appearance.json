@@ -1,8 +1,12 @@
 {
-  "accentColor": "#ff0019",
+  "accentColor": "#ff0000",
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
   "translucency": true,
   "nativeMenus": false,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Fira Code",
+  "showViewHeader": true
 }

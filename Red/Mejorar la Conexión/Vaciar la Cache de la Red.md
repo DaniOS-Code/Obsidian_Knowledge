@@ -3,6 +3,8 @@ Limpiar la Caché de la Red Elimina los Datos Temporales Almacenados, lo cual ay
 > #### Comando para Limpiar la Caché.
 > ```Batch
 > ipconfig /flushdns
+> 
+> 
 > ```
 > ![[Limpiar-la-dns-speed.png]]
 
@@ -13,6 +15,8 @@ Limpiar la Caché de la Red Elimina los Datos Temporales Almacenados, lo cual ay
 > #### Registrar la Dirección IP de un Dispositivo en el Sistema de Nombre de Dominio.
 > ```Batch
 > ipconfig /registerdns
+> 
+> 
 > ```
 > ![[limpiar-la-dns-registrar.png]]
 
@@ -23,6 +27,8 @@ Limpiar la Caché de la Red Elimina los Datos Temporales Almacenados, lo cual ay
 > #### Libera la Dirección IP Asignada a un Dispositivo en una Red.
 > ```Batch
 > ipconfig /release
+> 
+> 
 > ```
 > ![[Limpiar-la-dns-ip.png]]
 
@@ -33,6 +39,8 @@ Limpiar la Caché de la Red Elimina los Datos Temporales Almacenados, lo cual ay
 > #### Renovar la Dirección IP de un Dispositivo en una Red.
 > ```Batch
 > ipconfig /renew
+> 
+> 
 > ```
 > ![[Limpiar-la-dns-renew.png]]
 
@@ -43,5 +51,7 @@ Limpiar la Caché de la Red Elimina los Datos Temporales Almacenados, lo cual ay
 > #### Restablecer la Pila de Protocolos WinSock en una Computadora con Windows.
 > ```Batch
 > netsh winsock reset
+> 
+> 
 > ```
 > ![[Limpiar-la-dns-reset.png]]

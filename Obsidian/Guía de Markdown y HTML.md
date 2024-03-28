@@ -136,6 +136,7 @@ const person2 = new Person("María", 30);
 
 person1.greet(); // Hola, mi nombre es Juan y tengo 25 años.
 person2.greet(); // Hola, mi nombre es María y tengo 30 años.
+
 ```
 
 # Comentarios para que no compile Markdown

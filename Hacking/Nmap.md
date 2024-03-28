@@ -7,6 +7,8 @@
 > Realizar un escaneo de Ping en una red específica:
 > ```Bash
 > nmap -sP 127.0.0.1/24
+> 
+> 
 > ```
 > ![Escaneo de Ping](IPNMAP-ver.png)
 
@@ -17,6 +19,8 @@
 > Escaneo básico de Nmap:
 > ```Bash
 > nmap 127.0.0.1
+> 
+> 
 > ```
 > ![Escaneo Básico](nmap-ez.png)
 
@@ -27,6 +31,8 @@
 > Escanear dos direcciones IP:
 > ```Bash
 > nmap 127.0.0.1 127.0.0.1
+> 
+> 
 > ```
 > ![Escaneo de Dos IPs](nmap-ez-2.png)
 
@@ -37,6 +43,8 @@
 > Escanear todo el rango de una red:
 > ```Bash
 > nmap 127.0.0.1/24
+> 
+> 
 > ```
 > ![Escaneo de Rango de Red](nmap-scan-ez.png)
 
@@ -47,6 +55,8 @@
 > Enumerar un rango de puertos:
 > ```Bash
 > nmap -p- 127.0.0.1
+> 
+> 
 > ```
 > ![Enumeración de Rango de Puertos](nmap-scan-ez2.png)
 
@@ -57,6 +67,8 @@
 > Enumerar todos los puertos:
 > ```Bash
 > nmap -p- 127.0.0.1
+> 
+> 
 > ```
 > ![Enumeración de Todos los Puertos](nmap-ez-3.png)
 
@@ -67,6 +79,8 @@
 > Analizar un rango específico de puertos:
 > ```Bash
 > nmap -p1-100 127.0.0.1
+> 
+> 
 > ```
 > ![Análisis de Rango de Puertos Específico](nmap-ez-4.png)
 
@@ -77,6 +91,8 @@
 > Enumerar los puertos comunes principales (por ejemplo, 500 o 100):
 > ```Bash
 > nmap --top-ports 100 127.0.0.1
+> 
+> 
 > ```
 > ![Enumeración de Puertos Comunes Principales](nmap-ez-5.png)
 
@@ -87,6 +103,8 @@
 > Escaneos UDP con Nmap:
 > ```Bash
 > sudo nmap -sU --top-ports 100 --open -T5 -v -n 127.0.0.1
+> 
+> 
 > ```
 > ![Escaneo UDP](nmap-ez-6.png)
 
@@ -97,6 +115,8 @@
 > Detectar dispositivos conectados en tu red utilizando Ping:
 > ```Bash
 > nmap -sP 127.0.0.1/24
+> 
+> 
 > ```
 > ![Dispositivos Conectados](nmap-sP.png)
 
@@ -107,6 +127,8 @@
 > Detectar dispositivos encendidos en tu red:
 > ```Bash
 > nmap -sn 127.0.0.1
+> 
+> 
 > ```
 > ![Dispositivos Encendidos](nmap-sn.png)
 
@@ -117,6 +139,8 @@
 > Escaneo sigiloso sin dejar rastro en la máquina objetivo:
 > ```Bash
 > nmap -sS 127.0.0.1
+> 
+> 
 > ```
 > ![Escaneo Sigiloso](nmap-sS.png)
 
@@ -127,6 +151,8 @@
 > Aplicar una plantilla para acelerar o ralentizar los escaneos:
 > ```Bash
 > nmap -T5 127.0.0.1
+> 
+> 
 > ```
 > ![Plantilla de Escaneo](nmap-T5.png)
 
@@ -137,6 +163,8 @@
 > Sondeo TCP ACK para identificar el tipo de firewall:
 > ```Bash
 > nmap -n -v -sA 127.0.0.1
+> 
+> 
 > ```
 > ![Sondeo TCP ACK](nmap-cmpljo.png)
 
@@ -147,6 +175,8 @@
 > Scripts de Nmap para obtener información de las máquinas objetivo:
 > ```Bash
 > nmap --script default 127.0.0.1/24
+> 
+> 
 > ```
 > ![Scripts de Nmap](nmap-script.png)
 
@@ -157,6 +187,8 @@
 > Cambiar la dirección MAC:
 > ```Bash
 > nmap -spoof-mac 12:70:01:00:00:11 127.0.0.1
+> 
+> 
 > ```
 > ![Cambiar la Dirección MAC](nmap-mac.png)
 
@@ -169,6 +201,8 @@
 > Escaneo de Nmap más rápido y eficiente:
 > ```Bash
 > nmap -p- --open -sS -sC -sV --min-rate 5000 -vvv -n -Pn 127.0.0.1 -oN escaneo
+> 
+> 
 > ```
 > ![Escaneo Avanzado](nmap-scan-fast.png)
 
@@ -179,6 +213,8 @@
 > Fuzzing con un script de Nmap:
 > ```Bash
 > nmap --script http-enum -p80 127.0.0.1 -vvv
+> 
+> 
 > ```
 > ![Fuzzing](nmap-script2.png)
 
@@ -189,6 +225,8 @@
 > Detectar vulnerabilidades:
 > ```Bash
 > nmap --script vuln -p 127.0.0.1
+> 
+> 
 > ```
 > ![Detección de Vulnerabilidades](nmap-script3.png)
 
@@ -215,6 +253,8 @@ Ejecutar el comando "Run" para obtener acceso:
 > Ataques de fuerza bruta SSH:
 > ```Bash
 > nmap --script ssh-brute 127.0.0.1
+> 
+> 
 > ```
 > ![Ataques de Fuerza Bruta SSH](FBruta-ssh.png)
 
@@ -225,5 +265,6 @@ Ejecutar el comando "Run" para obtener acceso:
 > Probar diferentes contraseñas para un usuario:
 > ```Bash
 > nmap -p 22 --script ssh-brute --script-args userdb='usuario.txt',passdb='rockyou.txt' 127.0.0.1
+> 
 > ```
 > ![Pruebas de Contraseñas](confirm-contr-ssh.png)

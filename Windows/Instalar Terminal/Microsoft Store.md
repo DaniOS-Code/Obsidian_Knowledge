@@ -15,7 +15,7 @@ Antes de continuar, asegúrate de que tu sistema esté actualizado a una versió
 La Terminal de Windows se puede descargar de la Microsoft Store. Sigue estos pasos:
 
 1. Abre la Microsoft Store desde el menú Inicio o busca "Microsoft Store" en la barra de búsqueda.
-2. En la Microsoft Store, busca "Windows Terminal".
+2. En la Microsoft Store, busca ["Windows Terminal"](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=pdpshare&hl=en-us&gl=US).
 3. Haz clic en "Obtener" para comenzar la descarga e instalación.
 ![[Terminal-desde-store.png]]
 

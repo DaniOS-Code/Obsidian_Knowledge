@@ -12,6 +12,8 @@
 3. En la ventana emergente, ingresa la siguiente dirección en el campo "Ubicación del elemento" y haz clic en "Siguiente":
    ```Batch
    C:\Windows\System32\cleanmgr.exe
+   
+   
    ```
 ![Crear Acceso Directo](crear-acceso-directo-clean.png)
 

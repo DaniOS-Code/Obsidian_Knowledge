@@ -44,6 +44,8 @@
    Bloque de código:
    ```python
    print("Hola, mundo!")
+   
+   
    ```
 
 7. **Tablas**:

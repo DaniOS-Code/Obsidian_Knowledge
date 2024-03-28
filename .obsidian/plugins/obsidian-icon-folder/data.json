@@ -4,13 +4,13 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
-    "iconColor": null,
+    "iconColor": "#fe7c7c",
     "recentlyUsedIcons": [
-      "BoBxsGraduation",
-      "BoBxsLockOpenAlt",
-      "FabLinux",
-      "RiSpeedUpFill",
-      "BoBxlYoutube"
+      "FabYoutube",
+      "FasImages",
+      "TiWorldCode",
+      "FabWikipediaW",
+      "BoBxsGraduation"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,7 +28,6 @@
     "iconIdentifier": ":",
     "iconsInLinksEnabled": true
   },
-  "YouTube": "BoBxlYoutube",
   "Red": "LiNetwork",
   "Psicología": "RiBrainFill",
   "Optimizaciones": "RiSpeedUpFill",
@@ -36,9 +35,9 @@
   "MacOS": "RiFinderFill",
   "Linux": "FabLinux",
   "Hacking": "BoBxsLockOpenAlt",
-  "Desarrollo Web": "BoBxlInternetExplorer",
+  "Desarrollo Web": "TiWorldCode",
   "Desarrollo de Juegos": "RiGamepadFill",
   "Android": "TiBrandAndroid",
-  "IMG": "RiFolderImageFill",
+  "IMG": "FasImages",
   "Windows": "RiWindowsFill"
 }

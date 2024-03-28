@@ -22,6 +22,8 @@ Para instalar Oh My Posh, sigue estos pasos:
 
    ```PowerShell
    Install-Module -Name oh-my-posh -Scope CurrentUser
+
+
    ```
 
    Si te pide confirmación para instalar el módulo, selecciona "Sí" o "A" y presiona Enter.
@@ -30,6 +32,8 @@ Para instalar Oh My Posh, sigue estos pasos:
 
    ```PowerShell
    Import-Module oh-my-posh
+
+
    ```
 
 ## Paso 3: Configuración de un Tema
@@ -44,12 +48,16 @@ Para aplicar un tema, sigue estos pasos:
 
    ```Batch
    notepad $PROFILE
+
+
    ```
 
 3. Agrega una línea al final de tu perfil de PowerShell para establecer el tema deseado. Por ejemplo:
 
    ```PowerShell
    Set-PoshPrompt -Theme Paradox
+
+
    ```
 
    Asegúrate de reemplazar "Paradox" con el nombre del tema que deseas utilizar.

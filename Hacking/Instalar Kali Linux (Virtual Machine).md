@@ -37,6 +37,8 @@ Puedes mantener tu sistema actualizado ejecutando la siguiente línea de comando
 
 ```Bash
 sudo apt update && sudo apt upgrade -y
+
+
 ```
 
 ![Actualizar Kali Linux](update&upgrade-kalilinux.png)
@@ -47,6 +49,8 @@ Si deseas habilitar más funciones en tu sistema Kali Linux, puedes instalar tod
 
 ```Bash
 sudo apt install kali-linux-everything
+
+
 ```
 
 ![Instalar todas las herramientas de Kali Linux](kalilinux-everything.png)

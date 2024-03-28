@@ -11,6 +11,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
 "DelayBeforeAcceptance"=dword:200
+
 ```
 
 2. Pega el código en el editor de texto y luego guárdalo como un archivo con extensión `.reg`, por ejemplo, "MejorarResponsividad.reg". Asegúrate de que el tipo de archivo sea "Todos los archivos" al guardarlo.

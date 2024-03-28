@@ -8,6 +8,8 @@ para poder ver las entradas que tenemos en el Sistema realizaremos el siguiente 
 
 ```PowerShell
 get-winuserlanguajelist
+
+
 ```
 
 ![[WinError-LengUS.png]]
@@ -18,6 +20,8 @@ El `languageTag` esta en la parte superior de cada sección (si es que tienes ma
 
 ```PowerShell
 get-winuserlanguagelist en-US
+
+
 ```
 
 ![[WinError-LengUS.png]]

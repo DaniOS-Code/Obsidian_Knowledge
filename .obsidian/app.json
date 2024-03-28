@@ -10,5 +10,11 @@
   "spellcheck": true,
   "newFileLocation": "root",
   "newLinkFormat": "shortest",
-  "trashOption": "local"
+  "trashOption": "local",
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible",
+  "focusNewTab": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true
 }

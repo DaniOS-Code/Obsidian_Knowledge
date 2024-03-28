@@ -8,5 +8,7 @@
   "table-editor-obsidian",
   "obsidian-advanced-slides",
   "obsidian-tasks-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "cm-editor-syntax-highlight-obsidian",
+  "execute-code"
 ]
