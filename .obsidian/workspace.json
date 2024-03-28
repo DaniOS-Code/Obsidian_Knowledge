@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5885e326ca8622fa",
+        "id": "84165d25ba2a14d4",
         "type": "tabs",
         "children": [
           {
-            "id": "f6290140fcd14443",
+            "id": "e2f83f82f360d89a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo Web/Algunas Tecnologías Back-End.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "403083d39641da36"
-          }
-        ]
-      },
-      {
-        "id": "9f6abcfc82dc8008",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "77d661d817eff0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo Web/Algunas Tecnologías Back-End.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "403083d39641da36"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -115,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo Web/Algunas Tecnologías Back-End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo Web/Algunas Tecnologías Back-End.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desarrollo Web/Algunas Tecnologías Back-End.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,8 +176,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f6290140fcd14443",
+  "active": "3fdc68d4066413f9",
   "lastOpenFiles": [
+    "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
     "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Ruta Para Aprender.md",
@@ -233,7 +204,6 @@
     "Red/Mejorar la Conexión/Internet Óptimo.md",
     "Red/Mejorar la Conexión/Vaciar la Cache de la Red.md",
     "Windows/Errores de Windows/Entrada de Idioma de Windows.md",
-    "Windows/Instalar Terminal/Más Comandos PATH.md",
     "IMG/nmap-arp.png",
     "IMG/crear-acceso-directo-clean.png",
     "Spaces/Home",
