@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c676ffe10d31ebb",
+        "id": "5885e326ca8622fa",
         "type": "tabs",
         "children": [
           {
-            "id": "4a67f306203131b7",
+            "id": "f6290140fcd14443",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Windows/Errores de Windows/Entrada de Idioma de Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Windows/Errores de Windows/Entrada de Idioma de Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Windows/Errores de Windows/Entrada de Idioma de Windows.md"
+              }
             }
           },
           {
@@ -176,33 +180,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4a67f306203131b7",
+  "active": "3fdc68d4066413f9",
   "lastOpenFiles": [
+    "YouTube/Canales de Programación.md",
+    "YouTube/Canales de Tecnología.md",
+    "Optimizaciones/Limpieza.md",
+    "Android/Personalizar el Desarrollador.md",
     "Android/Opciones de Desarrollador.md",
+    "Linux/Bash/Comandos Básicos del Shell.md",
+    "IMG/crear-acceso-directo-clean.png",
+    "Desarrollo Web/Algunas Tecnologías Back-End.md",
+    "Hacking/Instalar Kali Linux (Virtual Machine).md",
+    "Hacking/Contraseñas Guardadas.md",
     "README.md",
     "Android/Drawing 2024-03-27 01.59.45.excalidraw.md",
     "Spaces/Home",
     "Spaces",
-    "YouTube/Canales de Tecnología.md",
-    "YouTube/Canales de Programación.md",
-    "Android/Personalizar el Desarrollador.md",
     "Optimizaciones/Optimización de Dispositivos.md",
     "Windows/Errores de Windows/Entrada de Idioma de Windows.md",
     "Windows/Powershell/Entradas de Texto.md",
     "Optimizaciones/Optimizador para Windows.md",
     "Optimizaciones/Optimizar Regedit.md",
-    "Optimizaciones/Limpieza.md",
     "Obsidian/Notion (Extra).md",
     "Obsidian/Guía de Markdown y HTML.md",
-    "Linux/Bash/Comandos Básicos del Shell.md",
     "IMG/Listas-en-powershell.png",
     "IMG/Get-procesos-all.png",
     "Hacking/Hacking Generico/Ataque DoS.md",
     "Desarrollo Web/Ruta Para Aprender.md",
     "Desarrollo Web/PDF's para Aprender.md",
-    "Desarrollo Web/Algunas Tecnologías Back-End.md",
-    "Hacking/Instalar Kali Linux (Virtual Machine).md",
-    "Hacking/Contraseñas Guardadas.md",
     "IMG/ObsidianVault.png",
     "IMG/ObsidianLogo.png",
     "IMG/ObsidianFile.png",
@@ -211,7 +216,6 @@
     "Windows/Powershell/Bucles en Powershell.md",
     "Windows/Instalar Terminal/Personalizar (Oh My Posh).md",
     "Windows/Instalar Terminal/Microsoft Store.md",
-    "Windows/Instalar Terminal/Más Comandos PATH.md",
     "Windows/Instalar Terminal",
     "Windows/Powershell",
     "Windows/Errores de Windows",
@@ -222,7 +226,6 @@
     "IMG/Calculo-Diferencial.pdf",
     "IMG/Direcciones-mac-explicacion.png",
     "IMG/elegir-clean-disk.png",
-    "IMG/Menu-contextual-clean.png",
-    "IMG/Plan-de-energia-max-rend.png"
+    "IMG/Menu-contextual-clean.png"
   ]
 }
