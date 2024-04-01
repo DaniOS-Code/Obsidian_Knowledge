@@ -26,5 +26,3 @@ git clone https://github.com/DaniOS-Code/Obsidian_Knowledge.git
 </div>
 
 - Finally, select the folder and _`open`_ it.
-
-![](https://komarev.com/ghpvc/?username=DazuDev&color=blueviolet)
