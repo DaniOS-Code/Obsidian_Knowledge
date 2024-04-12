@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d663978fd43cb1c8",
+        "id": "889754e66f21c270",
         "type": "tabs",
         "children": [
           {
-            "id": "a16526af5d236b7a",
+            "id": "1d45c1add2893a76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo Web/Cosas Extras de Lenguajes.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo Web/Cosas Extras de Lenguajes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo Web/Cosas Extras de Lenguajes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desarrollo Web/Cosas Extras de Lenguajes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,10 +176,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a16526af5d236b7a",
+  "active": "1d45c1add2893a76",
   "lastOpenFiles": [
-    "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
+    "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Ruta Para Aprender.md",
     "Hacking/Hacking Generico/Ataque DoS.md",
