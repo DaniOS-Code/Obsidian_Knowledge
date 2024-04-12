@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84165d25ba2a14d4",
+        "id": "d663978fd43cb1c8",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f83f82f360d89a",
+            "id": "a16526af5d236b7a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3fdc68d4066413f9",
+  "active": "a16526af5d236b7a",
   "lastOpenFiles": [
     "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
