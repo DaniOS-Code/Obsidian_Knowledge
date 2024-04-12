@@ -16,5 +16,6 @@
   "focusNewTab": true,
   "foldHeading": true,
   "foldIndent": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "defaultViewMode": "preview"
 }
