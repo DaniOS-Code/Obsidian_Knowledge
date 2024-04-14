@@ -7,7 +7,7 @@
 > Here are the steps to follow:
 
 [comment]: <> (Drive Obsidian File v1.0.0 [Oct/5/2023] )
-- First, you need to clone & download the **File** via _`git`_
+- First, you need to clone & download the **File** via [_`git`_](https://git-scm.com/downloads)
 
 ``` git
 git clone https://github.com/DaniOS-Code/Obsidian_Knowledge.git
