@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84165d25ba2a14d4",
+        "id": "1eb44fbbfbc4624a",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f83f82f360d89a",
+            "id": "97dc0bd5f98aa5b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,8 +178,9 @@
   },
   "active": "3fdc68d4066413f9",
   "lastOpenFiles": [
-    "Desarrollo Web/Algunas Tecnologías Back-End.md",
+    "Linux/Bash/Comandos Básicos del Shell.md",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
+    "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Ruta Para Aprender.md",
     "Hacking/Hacking Generico/Ataque DoS.md",
@@ -188,7 +189,6 @@
     "Hacking/Instalar Kali Linux (Virtual Machine).md",
     "Hacking/Nmap.md",
     "Hacking/Puertos.md",
-    "Linux/Bash/Comandos Básicos del Shell.md",
     "Obsidian/Guía de Markdown y HTML.md",
     "Obsidian/Notion (Extra).md",
     "Optimizaciones/Limpieza.md",
