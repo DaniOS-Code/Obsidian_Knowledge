@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1eb44fbbfbc4624a",
+        "id": "3969c6fd8fdee2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "97dc0bd5f98aa5b9",
+            "id": "a43d14e74d0a9665",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psicología/Las 48 Leyes del Poder.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psicología/Las 48 Leyes del Poder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psicología/Las 48 Leyes del Poder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psicología/Las 48 Leyes del Poder.md"
+              }
             }
           },
           {
@@ -178,11 +187,11 @@
   },
   "active": "3fdc68d4066413f9",
   "lastOpenFiles": [
-    "Linux/Bash/Comandos Básicos del Shell.md",
+    "Desarrollo Web/Ruta Para Aprender.md",
+    "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
     "Desarrollo Web/Algunas Tecnologías Back-End.md",
-    "Desarrollo Web/PDF's para Aprender.md",
-    "Desarrollo Web/Ruta Para Aprender.md",
+    "Linux/Bash/Comandos Básicos del Shell.md",
     "Hacking/Hacking Generico/Ataque DoS.md",
     "Hacking/Contraseñas Guardadas.md",
     "Hacking/Equipos Conectados.md",
