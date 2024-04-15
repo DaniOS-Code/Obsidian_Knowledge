@@ -13,8 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Psicología/Las 48 Leyes del Poder.md",
                 "mode": "preview",
+=======
+                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
+                "mode": "source",
+>>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
                 "backlinks": false,
                 "source": true
               }
@@ -94,7 +99,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Psicología/Las 48 Leyes del Poder.md",
+=======
+                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
+>>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Psicología/Las 48 Leyes del Poder.md",
+=======
+                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
+>>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Psicología/Las 48 Leyes del Poder.md"
+=======
+                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md"
+>>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
               }
             }
           },
@@ -185,16 +202,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3fdc68d4066413f9",
+  "active": "97dc0bd5f98aa5b9",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "README.md",
+    "Hacking/Equipos Conectados.md",
+    "Hacking/Contraseñas Guardadas.md",
+>>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
     "Desarrollo Web/Ruta Para Aprender.md",
     "Desarrollo Web/PDF's para Aprender.md",
     "Desarrollo Web/Cosas Extras de Lenguajes.md",
     "Desarrollo Web/Algunas Tecnologías Back-End.md",
     "Linux/Bash/Comandos Básicos del Shell.md",
     "Hacking/Hacking Generico/Ataque DoS.md",
-    "Hacking/Contraseñas Guardadas.md",
-    "Hacking/Equipos Conectados.md",
     "Hacking/Instalar Kali Linux (Virtual Machine).md",
     "Hacking/Nmap.md",
     "Hacking/Puertos.md",
@@ -212,7 +233,6 @@
     "Red/Mejorar la Conexión/Cambiar DNS.md",
     "Red/Mejorar la Conexión/Internet Óptimo.md",
     "Red/Mejorar la Conexión/Vaciar la Cache de la Red.md",
-    "Windows/Errores de Windows/Entrada de Idioma de Windows.md",
     "IMG/nmap-arp.png",
     "IMG/crear-acceso-directo-clean.png",
     "Spaces/Home",
