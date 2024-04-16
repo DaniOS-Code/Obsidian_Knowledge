@@ -1,28 +1,18 @@
 {
   "main": {
-    "id": "acd576c541715243",
+    "id": "60ac5e985fcb5411",
     "type": "split",
     "children": [
       {
-        "id": "3969c6fd8fdee2f1",
+        "id": "6c5f6b4a1e9eded6",
         "type": "tabs",
         "children": [
           {
-            "id": "a43d14e74d0a9665",
+            "id": "2c76a2faad741acb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Psicología/Las 48 Leyes del Poder.md",
-                "mode": "preview",
-=======
-                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
-                "mode": "source",
->>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -31,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e7eecda5bf55c1dc",
+    "id": "c33bf41cb66d27ff",
     "type": "split",
     "children": [
       {
-        "id": "c077157068223193",
+        "id": "bffc700acfcd9519",
         "type": "tabs",
         "children": [
           {
-            "id": "3fdc68d4066413f9",
+            "id": "16df03e8a398da52",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +39,7 @@
             }
           },
           {
-            "id": "edc0ee174fd556d4",
+            "id": "082eeabff36d3a62",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,15 +54,7 @@
             }
           },
           {
-            "id": "c8a5a119c17f4dc2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ce59e6337caab7f",
+            "id": "b6cec96114309fb2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,24 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "532f99f630b8de32",
+    "id": "b306930089abf36c",
     "type": "split",
     "children": [
       {
-        "id": "fa81b11246f25b29",
+        "id": "0394fa30c2eabc72",
         "type": "tabs",
         "children": [
           {
-            "id": "dd32dc07db8c610e",
+            "id": "00b2ee5c20a1dc47",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Psicología/Las 48 Leyes del Poder.md",
-=======
-                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
->>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,23 +92,18 @@
             }
           },
           {
-            "id": "382fc4e664d6a85d",
+            "id": "fac2d953ad844fd1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Psicología/Las 48 Leyes del Poder.md",
-=======
-                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
->>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "06ccf5b3187ccb8d",
+            "id": "4c062ccd5afb86a7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,21 +114,7 @@
             }
           },
           {
-            "id": "596fa99437d01d7e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Psicología/Las 48 Leyes del Poder.md"
-=======
-                "file": "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md"
->>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
-              }
-            }
-          },
-          {
-            "id": "36a9a77dcb90311d",
+            "id": "dc2380869f633ee0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,15 +126,14 @@
             }
           },
           {
-            "id": "89bfc71371fbe1f9",
+            "id": "eff0bfbbf10d97bd",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,73 +142,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": true,
-      "publish:Publish changes...": true,
-      "random-note:Open random note": true,
-      "zk-prefixer:Create new unique note": true,
-      "workspaces:Manage workspace layouts": true,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "97dc0bd5f98aa5b9",
+  "active": "16df03e8a398da52",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "README.md",
-    "Hacking/Equipos Conectados.md",
-    "Hacking/Contraseñas Guardadas.md",
->>>>>>> f6861e19c4f9c09148c042796d98501d2a18537c
-    "Desarrollo Web/Ruta Para Aprender.md",
-    "Desarrollo Web/PDF's para Aprender.md",
-    "Desarrollo Web/Cosas Extras de Lenguajes.md",
-    "Desarrollo Web/Algunas Tecnologías Back-End.md",
-    "Linux/Bash/Comandos Básicos del Shell.md",
-    "Hacking/Hacking Generico/Ataque DoS.md",
-    "Hacking/Instalar Kali Linux (Virtual Machine).md",
-    "Hacking/Nmap.md",
-    "Hacking/Puertos.md",
-    "Obsidian/Guía de Markdown y HTML.md",
-    "Obsidian/Notion (Extra).md",
-    "Optimizaciones/Limpieza.md",
-    "Optimizaciones/Optimización de Dispositivos.md",
-    "Optimizaciones/Optimizador para Windows.md",
-    "Optimizaciones/Optimizar Regedit.md",
-    "Optimizaciones/Plan de Energía.md",
-    "Psicología/Las 48 Leyes del Poder.md",
-    "Psicología/Leyes de la Naturaleza Humana.md",
-    "Red/CURL/Diferencias entre Peticiones HTTP con HEAD, POST y GET.md",
-    "Red/CURL/Subir Archivos con CURL.md",
-    "Red/Mejorar la Conexión/Cambiar DNS.md",
-    "Red/Mejorar la Conexión/Internet Óptimo.md",
-    "Red/Mejorar la Conexión/Vaciar la Cache de la Red.md",
-    "IMG/nmap-arp.png",
-    "IMG/crear-acceso-directo-clean.png",
-    "Spaces/Home",
-    "Spaces",
-    "IMG/Listas-en-powershell.png",
-    "IMG/Get-procesos-all.png",
-    "IMG/ObsidianVault.png",
-    "IMG/ObsidianLogo.png",
-    "IMG/ObsidianFile.png",
-    "Obsidian-Knowledge",
-    "Windows/Instalar Terminal",
-    "Windows/Powershell",
-    "Windows/Errores de Windows",
-    "Red/Mejorar la Conexión",
-    "Red/CURL",
-    "Linux/Bash",
-    "IMG/winget-list.png",
-    "IMG/Calculo-Diferencial.pdf",
-    "IMG/Direcciones-mac-explicacion.png",
-    "IMG/elegir-clean-disk.png"
+    "Obsidian/Guía de Markdown y HTML.md"
   ]
 }
